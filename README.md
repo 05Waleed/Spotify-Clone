@@ -1,6 +1,9 @@
 Spotify Web Player Clone
 =========================
 
+<p><strong>🔗 Visit the live site:</strong> <a href="https://spotify-as-clone.netlify.app" target="_blank">Click here to open</a></p>
+
+
 ## 📸 Screenshots
 
 <h3>Homepage View</h3>
